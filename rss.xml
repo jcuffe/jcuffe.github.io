@@ -1,4 +1,186 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Advanced Starter]]></title><description><![CDATA[A GatsbyJS stater with Advanced design in mind.]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter</link><image><url>https://vagr9k.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Gatsby Advanced Starter</title><link>https://vagr9k.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 11 Jan 2019 21:48:00 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Advanced User]]></author><copyright><![CDATA[Copyright © 2017. Advanced User]]></copyright><item><title><![CDATA[Labs Week I]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week, I placed my self in the role of prototyping the core features of our app. I…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-i</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-i</guid><category><![CDATA[programming]]></category><category><![CDATA[stuff]]></category><category><![CDATA[other]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 11 Jan 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Advanced Starter]]></title><description><![CDATA[A GatsbyJS stater with Advanced design in mind.]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter</link><image><url>https://vagr9k.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Gatsby Advanced Starter</title><link>https://vagr9k.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 18 Jan 2019 18:15:56 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Advanced User]]></author><copyright><![CDATA[Copyright © 2017. Advanced User]]></copyright><item><title><![CDATA[Labs Week II]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week, I decided to take a more reactive role and choose my tasks based on what the…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-ii</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-ii</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 18 Jan 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1498cd85bed864684e9f178c41e2f903/2939d/contribution.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.61073825503355%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACUklEQVQoz4WSzWoUQRDH5930IoJ49AF8AR9Br6IQ0IsgRBTEgxcRUTTEBCQQSIJJCJts2Bg3WXdmd2eqP6u/2+pdk5MkzZ+mmeqqqf+vq+qt7h5vDWrunDMhpRhTykUhhpzz+ur3lS/fap46ibF8i4toTNE6V50dnNdD0foMMQkt3GzqQyQ5X5I3t3c3fx6AyRON0hpn7CK6uFA5BH+65TfeuA8P7fO79uMjFbNCo9Aan+K4F3srbrhvJ0M5q5XS2jhlnJ6rUmsv9dJtfHYHl27h0xvq02Nuk5CKcWlyluvL8slN/eKeXr4v3z6QG+8EOi41iapXEo0wgaEHDKA9SANCAVcdk2gLBuES05YpA0wAsBIVquNKUzLjFoRDH72PsTCJC/kQyNh4/GfWtsZnOhOrELP/F43GuurwqOsPoGkVKBksJu/zfFEl2t+/fvVj5WvDAyOW3qQ5RVop0cVQoQvos7SRuyhMRJvQOJzzIJ5SoVAFHkfkCrW2iyjOwVe6bfSoj6MjHPbUyY4eD5QNdLvQdl4roWGmeac5SNYpJQvtebTQZsND2F+DPdIq2/kMx1udwI6JGRDXyOth19+GwS6c7JX9fECoOi5bEMSzsj65mF3KNmUds/YJsfRGMKlttEG7qG0gd2W3/sKULW3/ktNT3jWtrQFpKMvwXSAh0/nKVTWKjxjUEz5mzCASw8sBpNdKF7X+n2xMMDYaX8TRK+sXPMgSNXbNnyUn+42cjGT9W5z3ZXMmtZ2/EHl31yRzLhhj0AHrWjabQkcg9eV4Xp38FxJTixdaCq6VAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;github-contributions&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1498cd85bed864684e9f178c41e2f903/4c4d8/contribution.png&quot;
+        srcset=&quot;/static/1498cd85bed864684e9f178c41e2f903/c401f/contribution.png 150w,
+/static/1498cd85bed864684e9f178c41e2f903/bb917/contribution.png 300w,
+/static/1498cd85bed864684e9f178c41e2f903/4c4d8/contribution.png 600w,
+/static/1498cd85bed864684e9f178c41e2f903/2939d/contribution.png 745w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Github handle: &lt;code class=&quot;language-text&quot;&gt;jcuffe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This week, I decided to take a more reactive role and choose my tasks based on what the rest of the team was focusing on. I spent most of my time on the communication between the client and server, implementing persistence for data entered by the user. I also finalized the OAuth implementation on deployment.&lt;/p&gt;
+&lt;h2 id=&quot;tasks-pulled&quot;&gt;&lt;a href=&quot;#tasks-pulled&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tasks Pulled&lt;/h2&gt;
+&lt;h3 id=&quot;front-end&quot;&gt;&lt;a href=&quot;#front-end&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Front End&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Login flow&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/25&quot;&gt;Finalize login flow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Functionality&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/41&quot;&gt;Implements email fetching on client side&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/46&quot;&gt;Implements version persistence from client to server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;back-end&quot;&gt;&lt;a href=&quot;#back-end&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Back End&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Testing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/27&quot;&gt;Backend login testing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Database&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/29&quot;&gt;Adds versions table to database schema&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Routing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/33&quot;&gt;Emails and versions routers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/36&quot;&gt;Subscriptions schema and router&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;detailed-analysis&quot;&gt;&lt;a href=&quot;#detailed-analysis&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Detailed Analysis&lt;/h2&gt;
+&lt;p&gt;This week&apos;s trickiest bit was on the client side, implementing the persistence of versions. Due to the normalization of our schema, our email editing component on the client side is responsible for sending data about two different schemas to the back end. I decided to handle this one the server side, and have the client send up all the relevant data in a single request. This choice has the benefit of keeping the client/server interaction to a single round-trip, and the cost of increasing the complexity of the server endpoint was minimal:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3f54c03c017e1b1998d7be0fde946406/e7ec3/emails.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 538px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 79.36802973977694%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABwUlEQVQoz5VR7Y6bMBDExvb6c21jDHaAQKIm+dH3f786aaWrquZONxrQIrG7M7OdHeZUzzn7cXCSM2YGMOjHSfvB+si5YIx17wAcPI4GowCpMXLQygXtAudcWmfTLC12nwCnLZ/v43bNx82nKZ72dNpDnm2IYBG0af8QQtrTvaruo6bUaUzLJa7XUNaYJ6Gt0I4rzYTo+572XChLCP3P2v4JluOWx2ld61rmuZTtdjtf91iWVJa6brefj+hR+SSUwWlptCF5h20zMcZclh85F6UlgnSgrAGvG5XSKniNqHHILibnkYPsBTRRAKKjlIKUPlfVMlMKzXOFDy6hDQqMaR/GR9+SiymncWg6P2Q/mznQVwCk+yZaswadlj0d93p5uDD2TZlFaQMoQ8ifgeQ3/pn/jJOxOh1lOW/7udZTGYep1Hrsp23FNNlh0sa83dysC8ra2Fa3gzRPzzcljPVMNE+Kcf62WSitnQkRjZKyBRxHMM6h7yn9wnNzGMJYcl2OI8+z80Fi7EFJbeiXzVrQmut93x/3y1TmNLRrSkG7RuiJZJ+xS6gK6tmZFNphe8s7BxTli0A+Z+eH1AL/S8o3jv0Lw5gfX8vXyuMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;emails-post&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3f54c03c017e1b1998d7be0fde946406/e7ec3/emails.png&quot;
+        srcset=&quot;/static/3f54c03c017e1b1998d7be0fde946406/5358c/emails.png 150w,
+/static/3f54c03c017e1b1998d7be0fde946406/a0431/emails.png 300w,
+/static/3f54c03c017e1b1998d7be0fde946406/e7ec3/emails.png 538w&quot;
+        sizes=&quot;(max-width: 538px) 100vw, 538px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The most difficult part of this was ensuring that references to the user and email ids were available at the time a version creation attempt was made. Prior to resolving this, I ran into many sqlite errors, resulting from an attempted version insertion without the required foreign key data.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f491e082ae6d7bf7e7589dc8178d5a3f/420da/versions.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 582px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 60.30927835051546%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABY0lEQVQoz5VS2W7cMAy0ROrwRcuyfMgrydcmyKYP/f+/qzYPRYGmbToY8GGgATkiiyOGa/XRD8YOZk5TSOfLlY71+v6SNu+7qtHQGWrrsilFJXkp2E8WCDiv9zFe4Uj7/Uz7ZkxjqDZdW2vVaiURNVlZEqBkjBW/gnNW9W5a/b6NYbbOEOdQfBGc89Yt2/14vMVr97fR+q4Z2orqChGUFFIKoRQIgYi5ZGYl6yjw2dncjt6HfZtimvfFRUu+J9fWRPXgyFrqx1lT3xoarOl7Gl03jZ0xVADnuunifnu85bz+mq1pKoHAGP/32ADAgYebO881erfYTgjx1cwIIJVM2/x430Jc/sOZ0RL93cA++Dl0qfPYiPnjPp4yYCCKHBggk2WZ/dFbjMO0LSmmNIdA/hzCdby+xn3b38/07b7MztS6q1Sp9SfmsqoFF/l6QGqhSqmUVqi1yFWK53YVgn7uGH/3/gBwphmhgXYMhwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;versions-schema&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f491e082ae6d7bf7e7589dc8178d5a3f/420da/versions.png&quot;
+        srcset=&quot;/static/f491e082ae6d7bf7e7589dc8178d5a3f/6fa98/versions.png 150w,
+/static/f491e082ae6d7bf7e7589dc8178d5a3f/7f21c/versions.png 300w,
+/static/f491e082ae6d7bf7e7589dc8178d5a3f/420da/versions.png 582w&quot;
+        sizes=&quot;(max-width: 582px) 100vw, 582px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;In the end, I got it working smoothly, and I&apos;m looking forward to polishing up the look and feel!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/193f514f5555772d4364573aea62dd31/e06cc/client.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 39.531859557867364%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAABRElEQVQY01WNDU7DMAyFe/87TaAJLjCqTUKwrWvadM3SJE7a5qeN8ZhAYFnR83ufnaK5ioo1H8djVTfdTV1/uhPqd/zn/+mCd7ppJe+EVsM82mm0zoLS2k+WRgDQRpM5OmuMpuihH2+x2byU5R5cFg5PMjcG2RCVhneBZ4mDi60AMik9dq7VqdbYmnxRudW5eH563W63F+4OAkuedxyJ6AdLYt9hD4kJu2vx0OOejbtmIb/kSO8bxwLAW2t7OZ8Vft6QAy5LukrbAGbEvKb2ZiuFzOCBjWW7nCQSWQ04BixiJHoFiGtGY5wPcVkWOhdidG5MKYF10+zHaTbgfFwIU3csIWLhPcZIyyHntWEMrKUFWjZac87j/YSTUgrRk5lipJTV9TRNOeciBKT2nrCwritl/rvofxpDCA9NRYJG4si/0yF8AUUbw11Q3L69AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;emails-list&quot;
+        title=&quot;&quot;
+        src=&quot;/static/193f514f5555772d4364573aea62dd31/4c4d8/client.png&quot;
+        srcset=&quot;/static/193f514f5555772d4364573aea62dd31/c401f/client.png 150w,
+/static/193f514f5555772d4364573aea62dd31/bb917/client.png 300w,
+/static/193f514f5555772d4364573aea62dd31/4c4d8/client.png 600w,
+/static/193f514f5555772d4364573aea62dd31/e06cc/client.png 769w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;milestone-reflections&quot;&gt;&lt;a href=&quot;#milestone-reflections&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Milestone Reflections&lt;/h2&gt;
+&lt;p&gt;This week was definitely more challenging than the last. The task of integrating the various bodies of code we had each created brought many challenges. Luckily, the hazards were mitigated by our use of Trello, allowing me to see what my teammates were working on and choose something that wouldn&apos;t cause conflicts come merge time. Still, I have had to stay vigilant and read each of my teammates&apos; pull requests in full, to ensure that I was abreast of any new assumptions encoded in the software and aware of any pitfalls on the road ahead. &lt;/p&gt;
+&lt;p&gt;The highlight of the week, in this vein, was finding a &lt;code class=&quot;language-text&quot;&gt;corsforstripe.js&lt;/code&gt; in the same directory as the &lt;code class=&quot;language-text&quot;&gt;cors.js&lt;/code&gt; configuration I had already written. As frustrating as it can be to stay vigilant of these issues, it is encouraging to know that other developers in the job pool are making mistakes that I&apos;ve prevented myself from making via my process.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Labs Week I]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week, I placed my self in the role of prototyping the core features of our app. I…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-i</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-i</guid><category><![CDATA[programming]]></category><category><![CDATA[stuff]]></category><category><![CDATA[other]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 11 Jan 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
