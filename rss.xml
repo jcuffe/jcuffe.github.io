@@ -1,4 +1,181 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Advanced Starter]]></title><description><![CDATA[A GatsbyJS stater with Advanced design in mind.]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter</link><image><url>https://vagr9k.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Gatsby Advanced Starter</title><link>https://vagr9k.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 18 Jan 2019 18:15:56 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Advanced User]]></author><copyright><![CDATA[Copyright © 2017. Advanced User]]></copyright><item><title><![CDATA[Labs Week II]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week, I decided to take a more reactive role and choose my tasks based on what the…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-ii</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-ii</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 18 Jan 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Advanced Starter]]></title><description><![CDATA[A GatsbyJS stater with Advanced design in mind.]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter</link><image><url>https://vagr9k.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Gatsby Advanced Starter</title><link>https://vagr9k.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 25 Jan 2019 16:01:24 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Advanced User]]></author><copyright><![CDATA[Copyright © 2017. Advanced User]]></copyright><item><title><![CDATA[Labs Week III]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week, we had a new team member to integrate with the group, so I split my time…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iii</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iii</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 25 Jan 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7822dc47b5c5f68cf38a8da8fc6f77a/e0246/contribution.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.58602150537635%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACwklEQVQozy2Sz44cNRDG+92iIO6IA4cc8grkLRAK4RShCCRQLuEA4oAgECWKNkGIkMtmErKzM2yyuzPT3bM9drtcZbv8j+oZWlbLqq9kl3/f17x9fLz4e9kZDjGkxCWEUnKpJeVUa/3lpx8f/fpzZ6qyLkuN+aDmkgNzc/lm1V7ALlXNCbKUKtcapS2mUuvsn+Xs5FT5OjiGnLx1Uo65HBoa9hDnT+PDz+L3n/oHt/yjO+7kOZFHF1zMeXeeF8/D8q9w8QrXC7q6JNWhqJ6d54aOvqXb1/2XH7ovrvs7H7jb19zXN6C/NBQoVfrjPn5+zX/1Md39yN/7hL656R7cgs078BGQGgoMIVoumpLxWbtsXByBNCCQi6VCyDZkTSx1bcnYSZIG2TTahBGi4yTPSHlah01MKeXSbjbDMMgZ+2JJRaDJm6eewLE5mev5v6pXOBLm4EqMtQjOknMW2j/c/+7Zbw97k0e0PrmMWFiAyieNqZE7iQuGBJzByQhF7nF7HiEmYQMo8Bg8m8AoB6TqOIrqQ2pQD9i9p/bMbZZ2dUrdGV2tkJx1wUsTIo07Gge362z7fgJ+PkMYhTYJbbte6NlTePtMz57Am6Px9ZE5faGV1kaAeRza3elLODtW8xcw/1O/egLHv+ttO1qvjW1YglFqrNXnKiNRlFVof7DcHGMJQitXPqgyc64UZOww+dxuzHpjOx1kEgmlgCoCbApgEQNWpM5BbRW3ygvEfS7lP30hcNP3tu2hG+AKjEdk78UkWZwmc7YEa6O6rWnH0RFG5oP6fzxdmMab2AhwFzFWjEWyiXtggtRz9uJqKpIqSQtylhlFJR+bvRnOIoIaJHe4fImvH1u9Aze5RYQw9Ha7FtR2vYTVAsUUAEsBKTSW/AQWSesR9E73K9NfjAY0kMSTnFdKWTPq3dWkDr1RgzYg2RwB/wMVfIAqa3fvAwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;github-contributions&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c7822dc47b5c5f68cf38a8da8fc6f77a/4c4d8/contribution.png&quot;
+        srcset=&quot;/static/c7822dc47b5c5f68cf38a8da8fc6f77a/c401f/contribution.png 150w,
+/static/c7822dc47b5c5f68cf38a8da8fc6f77a/bb917/contribution.png 300w,
+/static/c7822dc47b5c5f68cf38a8da8fc6f77a/4c4d8/contribution.png 600w,
+/static/c7822dc47b5c5f68cf38a8da8fc6f77a/e0246/contribution.png 744w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Github handle: &lt;code class=&quot;language-text&quot;&gt;jcuffe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This week, we had a new team member to integrate with the group, so I split my time between implementing features and re-implementing broken features.&lt;/p&gt;
+&lt;h2 id=&quot;tasks-pulled&quot;&gt;&lt;a href=&quot;#tasks-pulled&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tasks Pulled&lt;/h2&gt;
+&lt;h3 id=&quot;front-end&quot;&gt;&lt;a href=&quot;#front-end&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Front End&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Logout&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/64&quot;&gt;Implements logout functionality on client and server.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Functionality&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/68&quot;&gt;Implements version navigation and highlighting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/93&quot;&gt;Implements sentence-level highlighting of Watson analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Styles&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/74&quot;&gt;Responsive Documents list&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/79&quot;&gt;Responsive Email create component&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;back-end&quot;&gt;&lt;a href=&quot;#back-end&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Back End&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Database&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/94&quot;&gt;Provides last updated time for documents in list view&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/95&quot;&gt;Fixes analysis persistence bug by use of JSON&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;detailed-analysis&quot;&gt;&lt;a href=&quot;#detailed-analysis&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Detailed Analysis&lt;/h2&gt;
+&lt;p&gt;The task I was most satisfied to complete this week was the responsive redesign of the &lt;code class=&quot;language-text&quot;&gt;DocumentList&lt;/code&gt; component. My original mockup was awful, without even the decency to wrap across multiple lines:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/193f514f5555772d4364573aea62dd31/e06cc/bad.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 39.531859557867364%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAABRElEQVQY01WNDU7DMAyFe/87TaAJLjCqTUKwrWvadM3SJE7a5qeN8ZhAYFnR83ufnaK5ioo1H8djVTfdTV1/uhPqd/zn/+mCd7ppJe+EVsM82mm0zoLS2k+WRgDQRpM5OmuMpuihH2+x2byU5R5cFg5PMjcG2RCVhneBZ4mDi60AMik9dq7VqdbYmnxRudW5eH563W63F+4OAkuedxyJ6AdLYt9hD4kJu2vx0OOejbtmIb/kSO8bxwLAW2t7OZ8Vft6QAy5LukrbAGbEvKb2ZiuFzOCBjWW7nCQSWQ04BixiJHoFiGtGY5wPcVkWOhdidG5MKYF10+zHaTbgfFwIU3csIWLhPcZIyyHntWEMrKUFWjZac87j/YSTUgrRk5lipJTV9TRNOeciBKT2nrCwritl/rvofxpDCA9NRYJG4si/0yF8AUUbw11Q3L69AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;bad-emails&quot;
+        title=&quot;&quot;
+        src=&quot;/static/193f514f5555772d4364573aea62dd31/4c4d8/bad.png&quot;
+        srcset=&quot;/static/193f514f5555772d4364573aea62dd31/c401f/bad.png 150w,
+/static/193f514f5555772d4364573aea62dd31/bb917/bad.png 300w,
+/static/193f514f5555772d4364573aea62dd31/4c4d8/bad.png 600w,
+/static/193f514f5555772d4364573aea62dd31/e06cc/bad.png 769w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Luckily, I spotted some clean, appealing markup in a file Fred was working on, and decided that Reactstrap was going to get me out of this mess. I clobbered the entirety of the markup I had built to this point, and rewrote the layout using Reactstrap components.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/65fac9706581d0b6b5ea2795faf53aba/1c2fe/reactstrap.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 455px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50.76923076923077%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABMUlEQVQoz41Qy27CMBCMvWs7fsePJCahCYGWVi3q/39eTSUOwIXRaDWX0c5MM6O+6LILPUhJKeWCIIPmRRBC7G5vt7P/vNhlGo6qrFJI6JyXkmmFbYudY0oJawwX4tGvjYtfv2YsPBXU1vVNHEXuUoxqHrVs2brXRssQgtaaPJgpgJ8XfziJPOj6DrF5PXc9JuWwfbTOIWeAUGsjqws0yAhUAgGkiEivCgiltSxpbiE4F2E5qPkohjdZtjxm31MfMU4YdpBWEke+K0Mos9pvel7M+m68vw5WzT7n/vydipWGuMhMBOWpy2gz1R1zziofuLHkPu8VDKB7W8O0dIkpS1wCl0EH8D3a+j+JnLIJWVhHnlvncQrnH7uehEuU0OZ1WGuFlIQLaCWT6n+L5ok3dY8/UvIS2YoSchgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;reactstrap&quot;
+        title=&quot;&quot;
+        src=&quot;/static/65fac9706581d0b6b5ea2795faf53aba/1c2fe/reactstrap.png&quot;
+        srcset=&quot;/static/65fac9706581d0b6b5ea2795faf53aba/6bb73/reactstrap.png 150w,
+/static/65fac9706581d0b6b5ea2795faf53aba/d9cf7/reactstrap.png 300w,
+/static/65fac9706581d0b6b5ea2795faf53aba/1c2fe/reactstrap.png 455w&quot;
+        sizes=&quot;(max-width: 455px) 100vw, 455px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;While the look of the component could still use a little polish, I&apos;m happy to say that the main views of our app are fully responsive, as well as being simple and intuitive to use.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c2a720c89e589b73acaedb8f4b8388ee/9f831/good.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.7948717948718%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB6klEQVQoz5WSS2/TQBDH/fU4IaSeuICQShA0tAShSE2RDRjEV4ByaStVoUnIQxU3UNVLSADxaAEJAaGPOGqy9toO9Wt3xqwfhGC1B0ajlaX//mdnfh7JpNQyKSEj13XD/wwJADzPiz4R44RpGTgXqriDABkVEaUg8A3DgEgIQ84yZhYE1DA45+JyKM6Mea/3Q1kq3pUXP9+8iHLOuZ3DoRZpEN3TtL4qlxS59C5SrzilWRjsp1Zh1gnZbNVbzZpWXeGNVa+xBjYVTUBsFjiebzabjdp+dQUaa159FUwd49IiJFEgbUMYkpyKE1TEiSqJeXzfP40nnK5Gbdu21e20P+3u2Dtv8GOX775Fz03hh+HYtre3XnY6bf3VNrRfBN0tdH79nfn7t6+FfG4hn3t/4Qxenzm+eg4HBzEwQTjsHx4s3loo3Jh7felsWDh/nJ+Bw15shuRXBbqARohLhuxIY+SIBz6PQ0wlzvF4bFmWb1vM1JllchZMVCkZPUGS5DStxP+P+gdY+jKlNKUKkKHCWGBSM6me2Z94SX72VGXpgSp/Kc7i/XnnzhwOB5MlGWj9h6qi3pM/FC+H6ryjXIOYSAqMjEb16tNapdxffwzlR97GE7CSJYm6NU3aelapbJT31pdjdRlouiTC/Bt9y/vugL12mgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;good-emails&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c2a720c89e589b73acaedb8f4b8388ee/4c4d8/good.png&quot;
+        srcset=&quot;/static/c2a720c89e589b73acaedb8f4b8388ee/c401f/good.png 150w,
+/static/c2a720c89e589b73acaedb8f4b8388ee/bb917/good.png 300w,
+/static/c2a720c89e589b73acaedb8f4b8388ee/4c4d8/good.png 600w,
+/static/c2a720c89e589b73acaedb8f4b8388ee/9f831/good.png 624w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2 id=&quot;milestone-reflections&quot;&gt;&lt;a href=&quot;#milestone-reflections&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Milestone Reflections&lt;/h2&gt;
+&lt;p&gt;This week focused on bringing together our various components, and doing our best to get them on a single theme. Our team had a unique circumstance this week, with a member of a dying team joining ours. While this caused a significant portion of time to be spent on catching the new teammate up, and rewriting code which was based off of incomplete assumptions, I still believe that the team made significant accomplishments this week. Having said that, I am already longing for an environment where tasks are allocated by an individual with the explicit role of integrating disparate workflows. I have found it very difficult to hold hands and code at the same time - speech-to-text, perhaps?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Labs Week II]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week, I decided to take a more reactive role and choose my tasks based on what the…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-ii</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-ii</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 18 Jan 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -357,7 +534,7 @@
     &lt;/p&gt;
 &lt;h2 id=&quot;milestone-reflections&quot;&gt;&lt;a href=&quot;#milestone-reflections&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Milestone Reflections&lt;/h2&gt;
 &lt;p&gt;The experience of forming a team this week was alright to me. I helped the team by supporting tech and design choices that would lead to the least overhead in the long run. Having been a PM for the previous labs, I had identified many points on which teams had gotten stuck for multiple days. I decided that these common problems were the biggest threat to our supply of developer hours, and championed choices that would allow us to avoid them. &lt;/p&gt;
-&lt;p&gt;As a result of this, I realize that I treated some choices as foregone conclusions, and may have robbed my teammates of the opportunity to discuss them. Upon reflection, I consider this a consequence of our loosely-knit group structure. In the absence of clear directions from a leader, I feel that group direction will be driven by the most proactive members of the group. I have noticed that this can cause hard feelings in less assertive or active members, and am interested in learning to circumvent these pitfalls while still retaining my effectiveness.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Big Test]]></title><description><![CDATA[NOTE: This "post" is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/big-sample-test</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/big-sample-test</guid><category><![CDATA[test]]></category><category><![CDATA[huge]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Tue, 20 Mar 2001 07:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;note-this-post-is-based-on-markdown-cheatsheet-and-is-meant-to-test-styling-of-markdown-generated-documents&quot;&gt;&lt;a href=&quot;#note-this-post-is-based-on-markdown-cheatsheet-and-is-meant-to-test-styling-of-markdown-generated-documents&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOTE: This &quot;post&quot; is based on &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; and is meant to test styling of Markdown generated documents.&lt;/h1&gt;
+&lt;p&gt;As a result of this, I realize that I treated some choices as foregone conclusions, and may have robbed my teammates of the opportunity to discuss them. Upon reflection, I consider this a consequence of our loosely-knit group structure. In the absence of clear directions from a leader, I feel that group direction will be driven by the most proactive members of the group. I have noticed that this can cause hard feelings in less assertive or active members, and am interested in learning to circumvent these pitfalls while still retaining my effectiveness.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Big Test]]></title><description><![CDATA[NOTE: This "post" is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/big-sample-test</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/big-sample-test</guid><category><![CDATA[test]]></category><category><![CDATA[huge]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Tue, 20 Mar 2001 08:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;note-this-post-is-based-on-markdown-cheatsheet-and-is-meant-to-test-styling-of-markdown-generated-documents&quot;&gt;&lt;a href=&quot;#note-this-post-is-based-on-markdown-cheatsheet-and-is-meant-to-test-styling-of-markdown-generated-documents&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOTE: This &quot;post&quot; is based on &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; and is meant to test styling of Markdown generated documents.&lt;/h1&gt;
 &lt;p&gt;This is intended as a quick reference and showcase. For more complete info, see &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;John Gruber&apos;s original spec&lt;/a&gt; and the &lt;a href=&quot;http://github.github.com/github-flavored-markdown/&quot;&gt;Github-flavored Markdown info page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This cheatsheet is specifically &lt;em&gt;Markdown Here&apos;s&lt;/em&gt; version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a &lt;em&gt;Markdown Here&lt;/em&gt; email, but it should be pretty close.&lt;/p&gt;
 &lt;p&gt;You can play around with Markdown on our &lt;a href=&quot;http://www.markdown-here.com/livedemo.html&quot;&gt;live demo page&lt;/a&gt;.&lt;/p&gt;
