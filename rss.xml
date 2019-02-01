@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Advanced Starter]]></title><description><![CDATA[A GatsbyJS stater with Advanced design in mind.]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter</link><image><url>https://vagr9k.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Gatsby Advanced Starter</title><link>https://vagr9k.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 25 Jan 2019 16:01:24 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Advanced User]]></author><copyright><![CDATA[Copyright © 2017. Advanced User]]></copyright><item><title><![CDATA[Labs Week III]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week, we had a new team member to integrate with the group, so I split my time…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iii</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iii</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 25 Jan 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Advanced Starter]]></title><description><![CDATA[A GatsbyJS stater with Advanced design in mind.]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter</link><image><url>https://vagr9k.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Gatsby Advanced Starter</title><link>https://vagr9k.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 01 Feb 2019 17:34:27 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Advanced User]]></author><copyright><![CDATA[Copyright © 2017. Advanced User]]></copyright><item><title><![CDATA[Labs Week IV]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week was the best for teamwork so far. We made great strides over the last four…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iv</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iv</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 01 Feb 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c7822dc47b5c5f68cf38a8da8fc6f77a/e0246/contribution.png&quot;
+    href=&quot;/static/08a9571ca1eb81d229ad9fc35c3f7997/2939d/contribution.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -14,18 +14,185 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 81.58602150537635%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACwklEQVQozy2Sz44cNRDG+92iIO6IA4cc8grkLRAK4RShCCRQLuEA4oAgECWKNkGIkMtmErKzM2yyuzPT3bM9drtcZbv8j+oZWlbLqq9kl3/f17x9fLz4e9kZDjGkxCWEUnKpJeVUa/3lpx8f/fpzZ6qyLkuN+aDmkgNzc/lm1V7ALlXNCbKUKtcapS2mUuvsn+Xs5FT5OjiGnLx1Uo65HBoa9hDnT+PDz+L3n/oHt/yjO+7kOZFHF1zMeXeeF8/D8q9w8QrXC7q6JNWhqJ6d54aOvqXb1/2XH7ovrvs7H7jb19zXN6C/NBQoVfrjPn5+zX/1Md39yN/7hL656R7cgs078BGQGgoMIVoumpLxWbtsXByBNCCQi6VCyDZkTSx1bcnYSZIG2TTahBGi4yTPSHlah01MKeXSbjbDMMgZ+2JJRaDJm6eewLE5mev5v6pXOBLm4EqMtQjOknMW2j/c/+7Zbw97k0e0PrmMWFiAyieNqZE7iQuGBJzByQhF7nF7HiEmYQMo8Bg8m8AoB6TqOIrqQ2pQD9i9p/bMbZZ2dUrdGV2tkJx1wUsTIo07Gge362z7fgJ+PkMYhTYJbbte6NlTePtMz57Am6Px9ZE5faGV1kaAeRza3elLODtW8xcw/1O/egLHv+ttO1qvjW1YglFqrNXnKiNRlFVof7DcHGMJQitXPqgyc64UZOww+dxuzHpjOx1kEgmlgCoCbApgEQNWpM5BbRW3ygvEfS7lP30hcNP3tu2hG+AKjEdk78UkWZwmc7YEa6O6rWnH0RFG5oP6fzxdmMab2AhwFzFWjEWyiXtggtRz9uJqKpIqSQtylhlFJR+bvRnOIoIaJHe4fImvH1u9Aze5RYQw9Ha7FtR2vYTVAsUUAEsBKTSW/AQWSesR9E73K9NfjAY0kMSTnFdKWTPq3dWkDr1RgzYg2RwB/wMVfIAqa3fvAwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 81.47651006711408%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC2ElEQVQozy1Sy45cNRC9v8UaBaRs2UTiA5BYI3bs2CAUomwiARvQRCxCHggpEwIZghKGh5QZ1ENrmEzopB/T3dPTfa99r112VflF3Q7WsVVyWeVTp0518vjo32ejVReYKEZOzDnFLDvFUsrud3f3Hj5YdUVZTDn22ZxykZ2IuTo7nq/mtqbShmRKIUqhlJAzh5hLGR6PhicvGldqTx0TdhA49EvqhFixb+PhrfjtB+H2h/jLFzj8CQ/u+eEecMaQUj1Jo99pOqDVK1jPXaecR+DkkD2Fyj39yl19012/7K697a9f9jfecdcuwfcft5hdLLC/Yz97y39+xX35Ltx8H+5+BLufmr92O0cGfAVIHcbOR+2CEgALNJBqLUj9VAzF1m1vOlC6VU0t0B201lUW2Dh2FFlIiiY5R1nbrmJM58tF3TQYisSxz5bXkCxxqKZj/XKszzZQWwjBZ4CyXVJJzjs7X+8/+vGiTS0Yz5AAMnMvds5Sv0JijwTOG8SOkkvFdzWOB8KFQrDOW4eAbCi0FBwVLw9i9sjYC+YJtnBtY0fP8PEN/uQN2nnP5oJIDizo2jUrt5rYydC9OvSnv7nJ3+BZBKmM9Up3arVUo4E+uK+f3tS/fqNO/mg6J3/azVKdHugXB+p4Xx/t6cMH+s97avhExNMGKuFGFJiD556zK0WadjEJI2RxRKKQQ8oiu0yuf5AlyA5JmFfTmZkuQNmAIRaxZAz9uZUkhjiDZmLUWvGywby9fw3JEnE1n5v5ot00rbItWhNQivT+4+1wLpxZdPpibZZaO2d7b8oceySJKowJS8EsGhbDGcRVAs5WaFNAimIUjGLVYjBaecAJMPwvGJw9t4OHdvCDwBw9ssdP7PBnOz4S50hXANasl/Z8bM5OzfQfM3tuFi9NszaAImdldd0uJ+35TC+n+lww04upXq+arrenzF8rJZ7U9VpvBBe63iildWdbA/8B7Dl5OeRgeiYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;github-contributions&quot;
         title=&quot;&quot;
-        src=&quot;/static/c7822dc47b5c5f68cf38a8da8fc6f77a/4c4d8/contribution.png&quot;
-        srcset=&quot;/static/c7822dc47b5c5f68cf38a8da8fc6f77a/c401f/contribution.png 150w,
-/static/c7822dc47b5c5f68cf38a8da8fc6f77a/bb917/contribution.png 300w,
-/static/c7822dc47b5c5f68cf38a8da8fc6f77a/4c4d8/contribution.png 600w,
-/static/c7822dc47b5c5f68cf38a8da8fc6f77a/e0246/contribution.png 744w&quot;
+        src=&quot;/static/08a9571ca1eb81d229ad9fc35c3f7997/4c4d8/contribution.png&quot;
+        srcset=&quot;/static/08a9571ca1eb81d229ad9fc35c3f7997/c401f/contribution.png 150w,
+/static/08a9571ca1eb81d229ad9fc35c3f7997/bb917/contribution.png 300w,
+/static/08a9571ca1eb81d229ad9fc35c3f7997/4c4d8/contribution.png 600w,
+/static/08a9571ca1eb81d229ad9fc35c3f7997/2939d/contribution.png 745w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Github handle: &lt;code class=&quot;language-text&quot;&gt;jcuffe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This week was the best for teamwork so far. We made great strides over the last four days, and greatly improved the appeal of our product.&lt;/p&gt;
+&lt;h2 id=&quot;tasks-pulled&quot;&gt;&lt;a href=&quot;#tasks-pulled&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tasks Pulled&lt;/h2&gt;
+&lt;h3 id=&quot;front-end&quot;&gt;&lt;a href=&quot;#front-end&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Front End&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Look and Feel&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/111&quot;&gt;Document List look and feel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/114&quot;&gt;Refactors sidebar styles and markup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/117&quot;&gt;Adds color to reported tones, with width varying by strength&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/118&quot;&gt;EmailCreate control organization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/129&quot;&gt;Responsive breakpoints&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/144&quot;&gt;Modifies breakpoints for analysis to ensure order consistency on phone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;back-end&quot;&gt;&lt;a href=&quot;#back-end&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Back End&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Database&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/135&quot;&gt;Refactors database logic to prevent Postgres errors on deploy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/148&quot;&gt;Refactors middleware to squash production bug&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;detailed-analysis&quot;&gt;&lt;a href=&quot;#detailed-analysis&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Detailed Analysis&lt;/h2&gt;
+&lt;p&gt;This week had a unique lack of variety in the tasks I pulled. While I worked on every component across the project, I had the same goal in each file. Most of my effort was spent in the user list of documents, ensuring that it looked good across all breakpoints. Looking at it now, I think our mobile view looks even better than the desktop!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/310e05224a272418061b785cdb6b6644/8c52f/mobiledocs.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 369px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 181.029810298103%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAIAAAAGkY33AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAD/ElEQVRIx5VV7W9TVRzun+MHZGOzs11XejvWOsdgGwxkbdbOdZZuEo1zgbDoB1QYUcMXEz+IGD9pcMQYE8zmXtjmipCZqCDKi7LUBdrel3Pf2vvae6+/c28nY7Dd8ssv5zzn5Dzn5TnPudfT4Nu90xuoa2qpb2rZ2eivbwrWeQP13hboweDF4AvNxMZsbCb8ASIUJLy+oCcc3XsoPtB1ONbVczg+mO7sPtQbS3b19h18pb/nSKJ93wFvM+ENhJ1sCoTrmsOjEeLb/aFYMOjxBoi2jq5A60vBcDS670CAiIYinaFIR6ito/Xl7t172nfs8u1o8Dv5fIP/uV3+gz7feMi3p9Hr6R9M9yWG4gOvQfYlUhgkh+JJXMaSuD+RymzKZCozODQcS6Q81rOHaZpQiqLoMQzDaTxrsCzrqVQqm8gGdOl6RdcqmlbFAAyjJrIoiPkiWWQYhheRICBeZFkOIdbesRsZjykJJseYVN4oPgRgiXwN264CU/noeDnRqky8rZwdKw+0KaeOWaqyYcA2ZNOUTwxI6U49O6NfnZNGeqRjvZYi10qWRmOlXp82eUG79EXpSIt0dL+lSLWRLUs9/6E01q+cfgtSPp5QPjllaaob+Qk3WFtbACGEyfJWodgB9Tpc75A1TcNkww7HdA42/kdVt9j5eMAQjuMwWVXV3NqDUqkMwwHDrFDCCoBc7AkVjdjLM/O/37yV+3eNoijwE8fzvMDD9tzJiOUWs9fnFrPLV6/zPMeyiKJoRVYs09rmzayTOW5mYXlqdmE1lxMEHi+L50BQggDbkbEuui5JEj6rpiu6BlLKKj43tB15ASuq6sgBwuu6voFc0UmSLBTycFqGLNL5BzSNaJJkGeZhvlAsFDgOIAMlYhFJUrDSo23/fe/eG68fzQynL372qXXupDKeqnxz3jaJ4S7YLysrkXAw2h45/eaINdIt9rfKZ8cw177Pp0aVDEgUhcWF+enpqdW7t63fftaXpsz7dzY5eUt7ghJOG3wkwXu0LLliSHY81bVYXVWtCgaSwSqgoabrUBma5mzYMeiTASM32FPTihQFU0IX8CHsm6peiYtgJEV/+fWl7LWVf+6vwp3ZtwJO4crlsjuZYtD3U3PfXZ6evfKTgIOnaNoxtrs9GcRdWb42v5SFh+E4AZ4GgJrsCWcDBEMl+9HbImM7auoje9pNHLAjkGz9M2TLLcJrhpBktlRGoohEiaEoDrGFIkmRJMwLt8rj7XA0zTxmz7W13McT70+ceW928ivr3Lj8TlqfvOBqT2wSqG79cSPzanw4M/T5B+9a6b1inJDPjNp/re3I+C8JcoK+SwvzszPTq7f/NLM/aj9cNP761dWecPj/AMuZT3JeHoKRAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;mobile-doc-list&quot;
+        title=&quot;&quot;
+        src=&quot;/static/310e05224a272418061b785cdb6b6644/8c52f/mobiledocs.png&quot;
+        srcset=&quot;/static/310e05224a272418061b785cdb6b6644/fb3d3/mobiledocs.png 150w,
+/static/310e05224a272418061b785cdb6b6644/66b59/mobiledocs.png 300w,
+/static/310e05224a272418061b785cdb6b6644/8c52f/mobiledocs.png 369w&quot;
+        sizes=&quot;(max-width: 369px) 100vw, 369px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The editor component also received a major overhaul, using bootstrap&apos;s layout tricks to place the analysis content above the editor on the small screen. I also corralled the controls into a single group, and made sure they looked consistent across breakpoints.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7ac4724b6b62fdd3bb3c3049b1f0fd4f/a91d3/editor.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 373px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 178.55227882037534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;editor&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7ac4724b6b62fdd3bb3c3049b1f0fd4f/a91d3/editor.png&quot;
+        srcset=&quot;/static/7ac4724b6b62fdd3bb3c3049b1f0fd4f/68529/editor.png 150w,
+/static/7ac4724b6b62fdd3bb3c3049b1f0fd4f/1c80b/editor.png 300w,
+/static/7ac4724b6b62fdd3bb3c3049b1f0fd4f/a91d3/editor.png 373w&quot;
+        sizes=&quot;(max-width: 373px) 100vw, 373px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The last area I concentrated on styling was the new user profile page. I wanted a central column near which the user&apos;s profile information could be aligned, which I achieved using fixed-width spans.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/440f2f68e3ccdf76547d3f563a99ae5e/ab3a4/profile.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.6%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAIAAAAGkY33AAAACXBIWXMAAA7DAAAOwwHHb6hkAAADaElEQVRIx51VW08TQRjt3zEmXAwttS1NSygQxQSDBAyXB3woAhEQf4K/xsQYDQEURTSRqJj4gPEaX4RetrO7s7eWvbV6prOUXrZp5HR28u3Mnp1vzndmG7gSjncFIz3BWHco1tUX6QnFuoNR1kKs7w0N9EUSTa0/mghfjccSqUBieGx6/s7NqdlbU7MzC+nxyduTMwsT03MT0/PTcwvXxyf7Y8lg1GuhaLI3kpwfTD5MxSeHUgGsnBgZ648PxZIjidEbkUQqkhyNDY6gjw9diyaHL/eG69ul3nAyGJ4IhRKRgcDS6kZ6ee3uyvriynp6eXVxZQ0tzfp13i+vbrS2pXv3V9YeBP5eFKVS8WLkCi5N0zxypVKpBR1RLpfxpK7rjOw4TrEKw9ANwzjthFKp5LquR7YsS1FoLpvN5wUiEszhRaX2wKxt2x4ZEfjoeT48fcfBgOM6rt0CPIyVvT0j4ns+zmSPvn7/8u3nj1+/GdVxsAvHdX0Uq1SayW8PPj5+uvV0a3d797WmG7quCULespwO5Jrgkkw3n++9e39oGMWSYRBS+HNyAjkoVSRZFkXRNE0fMh8yTQvr77zchyqQRFFVSGeap9gEU8V2+Br+ZPSHn49e7L1BSZC2RGnNAh32fPDh06Mnm8+2d3de7RvFIqW0gLwLBZEQXTeavNRMFmWayeYzOSEnFDCIyrlngK/8V0ZJrCrYQ2UO17Y88MLWA5rhCc8kfPH6dTic9mjwdqmqLcwNINCrATQz/YDxJm8rWeZtBih0fMLQzuHN3uZmPMu33JKm3XBj2w3e5gJCGZw3CMJUYT8emXZVNpMNskl/eyIfQgiOp6ppMgxJZUIkWJLFGKVUkiRsitfVh0yrEEUiUwXToMDSsixBRlVVECEJf3siN8gmCAL0ZCrgxxqrNKtcNeZn3oeMCSyraWrnL2Ar+T8+n/XkegO080Y9zsnIlte5Bl5uqz1Ahls8k6ASuVxeYMApJNlMNpfLwV/tPr2c79kTTsZHQ8GlosYaSkJl2mrMGv+cXDvPZ8e94d+j/hvAjytu+SlsMomhUqoqGhElOAs5KJKkqJooM5/BZk1vaSAjH6TNTyW2cGqeshB119hedE2v7dYjI4K8/B4crEAKTDcmgabC36pKCZaF0SWZVNNBZfAwXvQPpryGZ1gt+G8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;profile&quot;
+        title=&quot;&quot;
+        src=&quot;/static/440f2f68e3ccdf76547d3f563a99ae5e/ab3a4/profile.png&quot;
+        srcset=&quot;/static/440f2f68e3ccdf76547d3f563a99ae5e/3b96c/profile.png 150w,
+/static/440f2f68e3ccdf76547d3f563a99ae5e/916bb/profile.png 300w,
+/static/440f2f68e3ccdf76547d3f563a99ae5e/ab3a4/profile.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I&apos;m very happy with how our site looks and feels now!&lt;/p&gt;
+&lt;h2 id=&quot;milestone-reflections&quot;&gt;&lt;a href=&quot;#milestone-reflections&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Milestone Reflections&lt;/h2&gt;
+&lt;p&gt;The objective this week was completely focused on the front-end, and specifically the user&apos;s experience as they navigated the site. In order to be successful this week, we realized that we had to create a uniform experience for the user, where nothing was out of place, and every action available to the user was intuitively obvious. While it may have been the result of pointed prompting, I feel that our team was much more productive in our meetings, where we focused on nailing down choices that would be visible throughout our app, such as the card-based layout.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Labs Week III]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week, we had a new team member to integrate with the group, so I split my time…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iii</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iii</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 25 Jan 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/08a9571ca1eb81d229ad9fc35c3f7997/2939d/contribution.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.47651006711408%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC2ElEQVQozy1Sy45cNRC9v8UaBaRs2UTiA5BYI3bs2CAUomwiARvQRCxCHggpEwIZghKGh5QZ1ENrmEzopB/T3dPTfa99r112VflF3Q7WsVVyWeVTp0518vjo32ejVReYKEZOzDnFLDvFUsrud3f3Hj5YdUVZTDn22ZxykZ2IuTo7nq/mtqbShmRKIUqhlJAzh5hLGR6PhicvGldqTx0TdhA49EvqhFixb+PhrfjtB+H2h/jLFzj8CQ/u+eEecMaQUj1Jo99pOqDVK1jPXaecR+DkkD2Fyj39yl19012/7K697a9f9jfecdcuwfcft5hdLLC/Yz97y39+xX35Ltx8H+5+BLufmr92O0cGfAVIHcbOR+2CEgALNJBqLUj9VAzF1m1vOlC6VU0t0B201lUW2Dh2FFlIiiY5R1nbrmJM58tF3TQYisSxz5bXkCxxqKZj/XKszzZQWwjBZ4CyXVJJzjs7X+8/+vGiTS0Yz5AAMnMvds5Sv0JijwTOG8SOkkvFdzWOB8KFQrDOW4eAbCi0FBwVLw9i9sjYC+YJtnBtY0fP8PEN/uQN2nnP5oJIDizo2jUrt5rYydC9OvSnv7nJ3+BZBKmM9Up3arVUo4E+uK+f3tS/fqNO/mg6J3/azVKdHugXB+p4Xx/t6cMH+s97avhExNMGKuFGFJiD556zK0WadjEJI2RxRKKQQ8oiu0yuf5AlyA5JmFfTmZkuQNmAIRaxZAz9uZUkhjiDZmLUWvGywby9fw3JEnE1n5v5ot00rbItWhNQivT+4+1wLpxZdPpibZZaO2d7b8oceySJKowJS8EsGhbDGcRVAs5WaFNAimIUjGLVYjBaecAJMPwvGJw9t4OHdvCDwBw9ssdP7PBnOz4S50hXANasl/Z8bM5OzfQfM3tuFi9NszaAImdldd0uJ+35TC+n+lww04upXq+arrenzF8rJZ7U9VpvBBe63iildWdbA/8B7Dl5OeRgeiYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;github-contributions&quot;
+        title=&quot;&quot;
+        src=&quot;/static/08a9571ca1eb81d229ad9fc35c3f7997/4c4d8/contribution.png&quot;
+        srcset=&quot;/static/08a9571ca1eb81d229ad9fc35c3f7997/c401f/contribution.png 150w,
+/static/08a9571ca1eb81d229ad9fc35c3f7997/bb917/contribution.png 300w,
+/static/08a9571ca1eb81d229ad9fc35c3f7997/4c4d8/contribution.png 600w,
+/static/08a9571ca1eb81d229ad9fc35c3f7997/2939d/contribution.png 745w&quot;
         sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
       /&gt;
     &lt;/span&gt;
@@ -71,40 +238,6 @@
 &lt;/ul&gt;
 &lt;h2 id=&quot;detailed-analysis&quot;&gt;&lt;a href=&quot;#detailed-analysis&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Detailed Analysis&lt;/h2&gt;
 &lt;p&gt;The task I was most satisfied to complete this week was the responsive redesign of the &lt;code class=&quot;language-text&quot;&gt;DocumentList&lt;/code&gt; component. My original mockup was awful, without even the decency to wrap across multiple lines:&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/193f514f5555772d4364573aea62dd31/e06cc/bad.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 39.531859557867364%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAA7DAAAOwwHHb6hkAAABRElEQVQY01WNDU7DMAyFe/87TaAJLjCqTUKwrWvadM3SJE7a5qeN8ZhAYFnR83ufnaK5ioo1H8djVTfdTV1/uhPqd/zn/+mCd7ppJe+EVsM82mm0zoLS2k+WRgDQRpM5OmuMpuihH2+x2byU5R5cFg5PMjcG2RCVhneBZ4mDi60AMik9dq7VqdbYmnxRudW5eH563W63F+4OAkuedxyJ6AdLYt9hD4kJu2vx0OOejbtmIb/kSO8bxwLAW2t7OZ8Vft6QAy5LukrbAGbEvKb2ZiuFzOCBjWW7nCQSWQ04BixiJHoFiGtGY5wPcVkWOhdidG5MKYF10+zHaTbgfFwIU3csIWLhPcZIyyHntWEMrKUFWjZac87j/YSTUgrRk5lipJTV9TRNOeciBKT2nrCwritl/rvofxpDCA9NRYJG4si/0yF8AUUbw11Q3L69AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;bad-emails&quot;
-        title=&quot;&quot;
-        src=&quot;/static/193f514f5555772d4364573aea62dd31/4c4d8/bad.png&quot;
-        srcset=&quot;/static/193f514f5555772d4364573aea62dd31/c401f/bad.png 150w,
-/static/193f514f5555772d4364573aea62dd31/bb917/bad.png 300w,
-/static/193f514f5555772d4364573aea62dd31/4c4d8/bad.png 600w,
-/static/193f514f5555772d4364573aea62dd31/e06cc/bad.png 769w&quot;
-        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
 &lt;p&gt;Luckily, I spotted some clean, appealing markup in a file Fred was working on, and decided that Reactstrap was going to get me out of this mess. I clobbered the entirety of the markup I had built to this point, and rewrote the layout using Reactstrap components.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
