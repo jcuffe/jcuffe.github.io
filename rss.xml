@@ -1,4 +1,161 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Advanced Starter]]></title><description><![CDATA[A GatsbyJS stater with Advanced design in mind.]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter</link><image><url>https://vagr9k.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Gatsby Advanced Starter</title><link>https://vagr9k.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 01 Feb 2019 18:00:09 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Advanced User]]></author><copyright><![CDATA[Copyright © 2017. Advanced User]]></copyright><item><title><![CDATA[Labs Week IV]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week was the best for teamwork so far. We made great strides over the last four…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iv</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iv</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 01 Feb 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Advanced Starter]]></title><description><![CDATA[A GatsbyJS stater with Advanced design in mind.]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter</link><image><url>https://vagr9k.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Gatsby Advanced Starter</title><link>https://vagr9k.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Fri, 08 Feb 2019 17:01:45 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Advanced User]]></author><copyright><![CDATA[Copyright © 2017. Advanced User]]></copyright><item><title><![CDATA[Labs Week V]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  Tasks Pulled Front End Adds alert to emailcreate in the case of too short a document…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-v</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-v</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 08 Feb 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a28ce459c3afc660080a8ccc1f14ebaf/b1940/contribution.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.9650067294751%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC50lEQVQozy2SzW4cRRDH52F4DE6RIEIRPAQ8AE8AF05EshQsLsDB+EQAKcIERcSKkmCwLSRsOY6dsDEm3vWsd2Z2p6e/qvq7mxqH1n9qRt3V09W/+leTx8/+PbpohPXehRSSDzmnXHKMsZTy6/2fHj962MgyaBMzrYecUh6fZJ2rZsezplYsFBGSTNG5GEqJidLoXZ49nzw/OeWYewXSgZM6hPGvMWXnfeWdDsc/++01d7iF5wfmbN/MThEAbbBUCrDUX7p+bkUPSgEaZAu7u2kW5xBKpZ98jZ+/bddumDs3cf19s37LfvkBPrgtGMNS4PcNvfaO2fgQv/tY3/tUb31mvv3I3rkpp6fKpQqt09Yr4wXYQeKgQGjkrB+4BEOXSAqd0lpwLtiKrzoh5HUmSI1V1zY9YzZkHxLdJKYYgw8x0dUotm0zDIOLJaQRY3yDg2AmAuarh1vf7+7uLXjqpQoesnXleqSUKP64ubH7aLuTWaI2ARLo7D0tlkzAQiWUJg4aULooUkHW2deHdjlD6l2IxEgq0MZJG4SLYDOGYlIxLhg6GY2nPDTWdFP79Cv/xbvxk7f8+nuwWphYjDGoNQpmlrW+fInTY7w4wtkJTYLxdDJyzuXVa3G0LZ58I3Y25d5duf8DW7bgol7Ww9mBPPtLnDwVhw/En/ck6eCXoWsFmIqqI/kQMGZdis4FUoFctPGExPtoffRkCZqMRYcxYiww1uuqy1rVDTAIbrSez5HiqDSaLM5xqDVfDr7hNqdYMqGKOdNHHu05ncp6zpe9YFoQNS/k2CMyJzUqpgZELYa2k3PGDUKkSv4faaRtQ7K5kAiP8pmqeiM0ZE9PLrE+2ZhtKNomoIRrkXnJQpWe/6Nf7MDff8BkT032KcKL3+DljhLc+Aig5arR7Uxdnat6outXMH8FV2dakcFcJdlSXF2odiaaGV/MhsVULKZ8ccEGwumo/5wxxZnol2LVDl0jyKGrjnFBu/8DXh11jw5M1bYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;github-contributions&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a28ce459c3afc660080a8ccc1f14ebaf/4c4d8/contribution.png&quot;
+        srcset=&quot;/static/a28ce459c3afc660080a8ccc1f14ebaf/c401f/contribution.png 150w,
+/static/a28ce459c3afc660080a8ccc1f14ebaf/bb917/contribution.png 300w,
+/static/a28ce459c3afc660080a8ccc1f14ebaf/4c4d8/contribution.png 600w,
+/static/a28ce459c3afc660080a8ccc1f14ebaf/b1940/contribution.png 743w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Github handle: &lt;code class=&quot;language-text&quot;&gt;jcuffe&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&quot;tasks-pulled&quot;&gt;&lt;a href=&quot;#tasks-pulled&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tasks Pulled&lt;/h2&gt;
+&lt;h3 id=&quot;front-end&quot;&gt;&lt;a href=&quot;#front-end&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Front End&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/199&quot;&gt;Adds alert to emailcreate in the case of too short a document&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/195&quot;&gt;Removes console logging from application&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/181&quot;&gt;Adds else condition to branch to prevent state overwriting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/163&quot;&gt;Overhauls text editor implementation completely&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;back-end&quot;&gt;&lt;a href=&quot;#back-end&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Back End&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/170&quot;&gt;Refactors email create endpoint to accurately persist version dates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;misc&quot;&gt;&lt;a href=&quot;#misc&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Misc&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Lambda-School-Labs/dont-send-that-email/pull/175&quot;&gt;Auth0 configuration instructions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;detailed-analysis&quot;&gt;&lt;a href=&quot;#detailed-analysis&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Detailed Analysis&lt;/h2&gt;
+&lt;p&gt;This week&apos;s technical challenge was centered on the editor component of our app. While testing functionality, it became apparent that we had to goals in conflict with each other: first, to style the user&apos;s input based on the tone analysis provided by Watson, and second, to prevent the malicious insertion of html markup into our persistence layer. The initial, and safest solution involved stripping the user&apos;s input of tags after every keystroke. This had the unfortunate consequence of making it impossible to actually type coherently into the editor, requiring text be copy-pasted instead.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/86e168cd63cb4b694cd7919f8cc32539/f4e8e/first.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 442px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 26.923076923076923%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAy0lEQVQY03WPyXKEIAAFGUDZ3BB0QFzGMgga+f/fC/ckfXi37qoH5ITHQ9idz4EJUrSqFUPTdBwjTCihlBRFwRjDCIHfvCAkdtXGfpa5b5txFXqB28OceZ9niDE4Y5/0WPP+S37BYY9q2vxXOO9cmFQtzcqdG+N1H9vuvb9Tmp3DsGzbrpMSQSilrOoKIAyzu26D/7YmILtUIVyXjymlfT+yI3vZK80ZJYiqrtdaE4jy5hBo6poKUJSgZIBWkIv8k/KK5zCjjBAC/ucHY1oSIEypmYwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;first&quot;
+        title=&quot;&quot;
+        src=&quot;/static/86e168cd63cb4b694cd7919f8cc32539/f4e8e/first.png&quot;
+        srcset=&quot;/static/86e168cd63cb4b694cd7919f8cc32539/a4181/first.png 150w,
+/static/86e168cd63cb4b694cd7919f8cc32539/84e66/first.png 300w,
+/static/86e168cd63cb4b694cd7919f8cc32539/f4e8e/first.png 442w&quot;
+        sizes=&quot;(max-width: 442px) 100vw, 442px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;With my second attempt, I remained with my decision to read and write the editor&apos;s text value directly from the associated version on state. In order to keep our resilience to script injection, I moved the tag stripping logic into the methods that handled saving and analyzing the text. This iteration was the worst of them all, not actually solving the bugs created by the original design, while introducing additional bugs related to the storing of marked up text in the app state. Highlighting became unpredictable, as sentences were wrapped in fresh &lt;code class=&quot;language-text&quot;&gt;span&lt;/code&gt; tags after every keystroke. Additionally, it became possible to completely destroy the layout of the site by pasting in arbitrary HTML.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b81a17ea340959740fefbb2d7fe5c585/d018a/second.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 439px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 79.04328018223235%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACDElEQVQoz5WSi27bIBSGud/BBhs7duJLYidu47RbN2matPd/r5Gomro21bRf6AA6fMC5AIhANfHtwrqVxYbkZeEfFr+J1nuTe4IhuOl1+ijLdbdxWUN9g0KHfAvKOtfKvEJvuDtXCIDbzOicKaEzl2uprLNcIB2wEIIBhCnUmKTFB/R2m424HvChP6zrZR6n58uXvmvGY9n2pvJGYx6xCJQaSO7DzcCaLutPvl/88Sl2x2KcNruueHhayozXvaq9b6CUgiD45vuE0Fh7KlD6GVOAqqtFDFBJOJNGWcKBdGnNEYB/kTehvORFRXxMOcPljscy1tHMQ7Zr9baRu9Yqrsuitta8jxpR0rswqSIUQar0AGaMUooEJ4xiQpIfIYgwxgihO9XiLo/T1Gzb5bRoLgQX4L+0bfTQuSI4rhGT0ChnrVVSZZn9N8wZvpzLeZ/vBl3vxGGp5sP+/PD4dD4fpn2ZVJSfwsZoZ6hSxCmR4mQacMqsziTTRYjO5UmfoBD2O99udAxaBRSq1OQstDh1a+iwq0BsLU0Vux68tWyyf2pmjeOcUQLTm6mL0HVAzK6DMJi2hJE7qWYJQEBLLhOMkWRUUCIZYxhTnBIBGQVKcqMEp8lLlKDJpvPWKFBopCk4js3LMj0OzeU0nIdmPY5jFWqP9hM/zOj7z/7Xj2/nvlnnbp3Hpau/rqeX5+U3RSAma+dZwOIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;second&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b81a17ea340959740fefbb2d7fe5c585/d018a/second.png&quot;
+        srcset=&quot;/static/b81a17ea340959740fefbb2d7fe5c585/af90d/second.png 150w,
+/static/b81a17ea340959740fefbb2d7fe5c585/e528c/second.png 300w,
+/static/b81a17ea340959740fefbb2d7fe5c585/d018a/second.png 439w&quot;
+        sizes=&quot;(max-width: 439px) 100vw, 439px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The final solution involved a completely different understanding of the needs of each actor in the &quot;editor story.&quot; I realized that it was absolutely necessary to keep on hand the fully marked-up text for the version being edited. Just as important was to keep the stripped representation up to date in the version state. Having a single representation that was read from and written to on every key stroke was simply unfeasible. I employed a technique I now know as &quot;denormalization,&quot; and created a new state variable to store the &lt;code class=&quot;language-text&quot;&gt;editorText&lt;/code&gt;, which contained all markup created by our app, as well as any arbitrary HTML the user might decide to enter. Behind the scenes, the text was stripped of its tags and saved to the current version. Whenever a user elected to analyze or save the version being edited, the stripped representation was provided to the server. Lastly, when the user loaded a version or requested an analysis, the editor&apos;s contents were clobbered and replaced by markup generated from the pristine text stored on state.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/16aa30371e4182fe3de510f5087a6ccd/a1a9f/final.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 30px 0; max-width: 449px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 32.29398663697104%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA8UlEQVQY03VPy3KEIABDRQRcdkW0qDzEV0XB/v/n1emh0+m0OWRySDIJeL5ltc6Fhu2EGCHloypKhjEGACRJ8sXgX+QFLLWyk7o+3kejzTg8GbZGe3/YYZiXxRqDCvR3RZJmqLNNr5wZefXqHWtM4q6H7YcYw7H7eZzOGNum+d7yM5zWdm2N2za/eKNVJ2vRO6qG7jyD09ZN8374Owwh5hVnjCGYCyEKhEAK08mLcWzX0Ms1HSzbb+/mQ4xK6RCuEK/jODspWyEFrznnGOayk5hg8GSsKNMsA7AAtyD0bkSYEkopQjml5S3wbcSEEPzr8ielwhaQ5f+9mAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;final&quot;
+        title=&quot;&quot;
+        src=&quot;/static/16aa30371e4182fe3de510f5087a6ccd/a1a9f/final.png&quot;
+        srcset=&quot;/static/16aa30371e4182fe3de510f5087a6ccd/b2b6a/final.png 150w,
+/static/16aa30371e4182fe3de510f5087a6ccd/6f7f7/final.png 300w,
+/static/16aa30371e4182fe3de510f5087a6ccd/a1a9f/final.png 449w&quot;
+        sizes=&quot;(max-width: 449px) 100vw, 449px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The result is an editor that works as it should during normal editing operation, and looks like we want it to when it&apos;s time to analyze.&lt;/p&gt;
+&lt;h2 id=&quot;milestone-reflections&quot;&gt;&lt;a href=&quot;#milestone-reflections&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Milestone Reflections&lt;/h2&gt;
+&lt;p&gt;The hardest part of this final week was showing up. I found it easy to make excuses to not be around, feeling like the work had already been done in previous weeks. While I had legitimate matters pulling me away, I let that time bleed into my work time and experienced an overall drop in motivation this week. I believe part of this does apply to the 90-90 principle, and I feel that I take far more satisfaction in forming the clay than I do in applying the glaze. However, our team came together effectively early in the week, and all goals that we identified together were completed by the time we were through. I am very happy with the outcome of our script meeting and the resulting video, and I feel that the rest of the team did an excellent job of stepping up while my contributions flagged.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Labs Week IV]]></title><description><![CDATA[Individual Accomplishments this Week Github handle:  This week was the best for teamwork so far. We made great strides over the last four…]]></description><link>https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iv</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-advanced-starter/labs-week-iv</guid><category><![CDATA[programming]]></category><dc:creator><![CDATA[Advanced User]]></dc:creator><pubDate>Fri, 01 Feb 2019 08:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;individual-accomplishments-this-week&quot;&gt;&lt;a href=&quot;#individual-accomplishments-this-week&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individual Accomplishments this Week&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
