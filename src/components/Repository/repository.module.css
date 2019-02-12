@@ -1,0 +1,14 @@
+.repository {
+  margin: 0 auto 3rem;
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.repository:last-child {
+  margin-bottom: 0px;
+}
+
+.repository a {
+  align-self: flex-end;
+}
