@@ -3,6 +3,11 @@
   max-width: 600px;
 }
 
+.layout h1 {
+  margin: 1rem 0 3rem;
+  text-align: center;
+}
+
 .header {
   display: flex;
   align-items: baseline;
