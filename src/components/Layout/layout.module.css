@@ -1,0 +1,18 @@
+.layout {
+  margin: 3rem auto;
+  max-width: 600px;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.navigation a {
+  margin-right: 10px;
+}
+
+.navigation a:last-child {
+  margin-right: 0;
+}
