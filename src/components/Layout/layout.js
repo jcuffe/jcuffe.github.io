@@ -24,7 +24,9 @@ const render = (data, children) => (
           <Link to={"/"}>About</Link>
           <Link to={"/blog/"}>Blog</Link>
           <Link to={"/portfolio/"}>Portfolio</Link>
-          <a href="https://resume.creddle.io/resume/xsgwo141h1">Resume</a>
+          <a target="_blank" href="https://resume.creddle.io/resume/xsgwo141h1">
+            Resume
+          </a>
         </span>
       </header>
       {children}
