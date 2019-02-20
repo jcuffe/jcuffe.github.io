@@ -3,6 +3,14 @@ module.exports = {
     title: "Jared Cuffe"
   },
   plugins: [
+    "gatsby-transformer-remark",
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "content",
+        path: "src/content"
+      }
+    },
     {
       resolve: "gatsby-plugin-typography",
       options: {
