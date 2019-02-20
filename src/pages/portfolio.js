@@ -1,6 +1,7 @@
 import React from "react";
-import Layout from "../components/Layout/layout";
-import Repository from "../components/Repository/repository";
+import { graphql } from "gatsby";
+import Layout from "../components/layout/layout";
+import Repository from "../components/repository/repository";
 import parse from "../parsers/github";
 
 export default ({ data }) => {
