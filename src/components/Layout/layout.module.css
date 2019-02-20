@@ -1,5 +1,20 @@
+.gradient {
+  background-color: #ff6ad5;
+  background-image: linear-gradient(
+    to right,
+    #ff6ad5,
+    #c774e8,
+    #ad8cff,
+    #8795e8,
+    #94d0ff
+  );
+  height: 10px;
+  width: 100%;
+}
+
 .layout {
-  margin: 3rem auto;
+  margin: 0 auto;
+  padding: 2rem;
   max-width: 600px;
 }
 
@@ -16,6 +31,11 @@
 
 .navigation a {
   margin-right: 10px;
+  color: #8795e8;
+}
+
+.navigation a:hover {
+  color: #c774e8;
 }
 
 .navigation a:last-child {
