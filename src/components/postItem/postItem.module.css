@@ -1,3 +1,7 @@
 .postItem h3 span {
   color: #bbb;
 }
+
+.postItem p {
+  font-style: italic;
+}

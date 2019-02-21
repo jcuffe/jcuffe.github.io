@@ -32,8 +32,8 @@ exports.createPages = ({ graphql, actions }) => {
   ).then(({ data }) => {
     data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
-        path: node.fields.slug,
-        component: path.resolve("./src/templates/post/post.js"),
+        path: `posts${node.fields.slug}`, // sandbox posts to avoid url collisions
+        component: require.resolve("./src/templates/post/post.js"),
         context: {
           slug: node.fields.slug
         }
