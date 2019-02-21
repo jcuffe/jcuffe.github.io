@@ -1,0 +1,15 @@
+.post h2 {
+  text-align: center;
+  margin: 1.5rem 0 2rem;
+}
+
+.post blockquote {
+  border-top: 2px solid #c774e8;
+  border-left: none;
+  border-bottom: 2px solid #8795e8;
+  color: #a5a4a4;
+  font-style: italic;
+  margin: 1.5rem;
+  padding: 1.5rem;
+  text-align: center;
+}
