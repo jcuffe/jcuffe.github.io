@@ -17,19 +17,23 @@ const render = (data, children) => (
     <div className={styles.gradient} />
     <div className={styles.layout}>
       <header className={styles.header}>
-        <Link to={"/"}>
+        <Link className={styles.title} to={"/"}>
           <h3>{data.site.siteMetadata.title}</h3>
         </Link>
         <span className={styles.navigation}>
-          <Link to={"/"}>About</Link>
+          <Link to={"/about/"}>About</Link>
           <Link to={"/blog/"}>Blog</Link>
           <Link to={"/portfolio/"}>Portfolio</Link>
-          <a target="_blank" href="https://resume.creddle.io/resume/xsgwo141h1">
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://resume.creddle.io/resume/xsgwo141h1"
+          >
             Resume
           </a>
         </span>
       </header>
-      {children}
+      <div className={styles.body}>{children}</div>
     </div>
   </div>
 );
