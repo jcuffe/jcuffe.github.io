@@ -22,6 +22,7 @@ const render = (data, children) => (
         </Link>
         <span className={styles.navigation}>
           <Link to={"/about/"}>About</Link>
+          <Link to={"/tutoring/"}>Tutoring</Link>
           <Link to={"/blog/"}>Blog</Link>
           <Link to={"/portfolio/"}>Portfolio</Link>
           <a
