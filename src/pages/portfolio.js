@@ -23,17 +23,14 @@ export const query = graphql`
     githubData {
       data {
         viewer {
-          pinnedRepositories {
-            edges {
-              node {
-                name
-                url
-                description
-              }
+          pinnedItems {
+            nodes {
+              name
+              url
+              description
             }
           }
         }
       }
     }
-  }
-`;
+  }`;

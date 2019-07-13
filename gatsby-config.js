@@ -20,13 +20,13 @@ module.exports = {
     {
       resolve: "gatsby-source-github-api",
       options: {
-        token: "3d25feacf4b62c0ad8358875cc6206796eba18fe", // Heavily restricted for convenience
+        token: "f7290cf380a1e045abad22314bb20ee411f19868", // Heavily restricted for convenience
         graphQLQuery: `
           query { 
-            viewer{
-              pinnedRepositories(first:5) {
-                edges {
-                  node{ 
+            viewer {
+              pinnedItems(first:5) {
+                nodes {
+                  ... on Repository {
                     name
                     url
                     description
