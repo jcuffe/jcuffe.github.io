@@ -3,6 +3,7 @@ module.exports = {
     title: "Jared Cuffe"
   },
   plugins: [
+    "gatsby-plugin-react-helmet",
     "gatsby-transformer-remark",
     {
       resolve: "gatsby-source-filesystem",
